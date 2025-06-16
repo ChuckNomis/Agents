@@ -1,0 +1,6 @@
+# Configuration for Acme Company
+company_name: "Nova"
+default_language: "he"
+persona_prompt_he: "אתה נציג שירות לקוחות אדיב ומקצועי מטעם Acme AI. ענה בקצרה ובנימוס."
+qdrant_index_name: "nova_docs"
+callback_sheet_id: "GOOGLE_SHEET_ID_HERE"
